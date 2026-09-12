@@ -1,6 +1,6 @@
 # Forkify: Your Culinary Adventure Starts Here 🍕
 
-🍽️ Welcome to Forkify, your ultimate recipe destination! Here, you can easily find the dishes you crave, learn how to whip them up, and get the scoop on the ingredients you'll need. Customize recipes to fit your needs, whether you're cooking for one or hosting a feast. Save your favorite dishes for later and even share your own culinary creations with our community. Forkify is your food-loving friend, here to make your cooking journey delicious and fun. Join us and let's cook up some magic together! 🍳👨‍🍳🍕
+🍽️ Welcome to Forkify, your ultimate recipe destination! Here, you can easily find the dishes you crave, learn how to whip them up, and get the scoop on the ingredients you'll need. Customize recipes to fit your needs, whether you're cooking for one or hosting a feast. Save your favorite dishes for later and even share your own culinary creations with our community. Forkify is your food-loving friend, here to make your cooking journey delicious and fun. Join us and let's cook up some magic together! 👨‍🍳🍕
 
 ## Table of Contents
 
