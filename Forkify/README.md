@@ -31,13 +31,13 @@
 ![App Screenshot](./src/readme/01-resultsGIF.gif)
 
 02 - Manage Your Favorites: Bookmark or Unbookmark Recipes Effortlessly
-![App Screenshot](/src/readme/02-bookmarkGIF.gif)
+![App Screenshot](./src/readme/02-bookmarkGIF.gif)
 
 03 - Adjust Serving Sizes: Customize Recipes to Your Needs
-![App Screenshot](/src/readme/03-servingsGIF.gif)
+![App Screenshot](./src/readme/03-servingsGIF.gif)
 
 04 - Share Your Creations: Add Your Own Special Recipes
-![App Screenshot](/src/readme/04-add-recipeGIF.gif)
+![App Screenshot](./src/readme/04-add-recipeGIF.gif)
 
 ## Reproducing the Project
 
