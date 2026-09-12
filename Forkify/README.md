@@ -44,7 +44,7 @@
 To reproduce this project on your local machine, follow these steps:
 
 ```bash
-git clone https://github.com/sorenaV/forkify.git
+git clone https://github.com/Benyamin-mirzajavadi/forkify.git
 
 npm install
 
